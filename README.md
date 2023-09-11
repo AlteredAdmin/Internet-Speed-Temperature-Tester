@@ -21,8 +21,7 @@ I've been experiencing intermittent issues with my home internet lately, which s
 ## Dependencies
 - `speedtest-cli`: To perform internet speed tests.
 - `requests`: To fetch data from the OpenWeatherMap API.
-### openweathermap.org
-You will need a free account on openweathermap.org and an API key.
+- `openweathermap.org API key`: You will need a free account on openweathermap.org and an API key.
 
 ## How to Use
 1. Clone the repository: `git clone https://github.com/AlteredAdmin/Internet-Speed-Temperature-Tester`

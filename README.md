@@ -37,3 +37,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 n/a
+
+### Support the Developer
+
+If you found this helpful, please consider:
+
+- **Buymeacoffee:** [Link](http://buymeacoffee.com/alteredadmin)
